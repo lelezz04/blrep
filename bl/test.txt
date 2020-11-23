@@ -1,4 +1,0 @@
-git init
-Dieser Befehl erstellt ein Git Repository.
-git add
-Dieser Befehl füg eine Datei zum Repository hinzu.
