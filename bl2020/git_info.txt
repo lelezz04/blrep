@@ -1,0 +1,17 @@
+cd <Pfad>
+--> Git Ordner öffnen
+
+git init
+--> erstellt git Ordner
+
+git add
+--> staged area
+
+git commit -m ""
+--> commiten
+
+git remote add origin <url>
+
+git push -u origin master
+
+git clone <url> <name auf pc>
